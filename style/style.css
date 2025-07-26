@@ -10,3 +10,23 @@ body{
 .header{
     background: #1f2937;
 }
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+.image-placeholder{
+    width: 550px; height: 250px; background-color: antiquewhite; border: 1px solid gray;
+}
+.main-text{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900px;
+}
+ul{
+    list-style: none;
+}
+.header a, .secondary-text{
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
